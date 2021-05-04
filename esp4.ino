@@ -1,9 +1,9 @@
 #include <SoftwareSerial.h>
 #define RX 2
 #define TX 3
-String AP = "Vartika";       // AP NAME
-String PASS = "tiggy@123"; // AP PASSWORD
-String API = "QACL8723EMOF8DG5";   // Write API KEY
+String AP = "";       // AP NAME
+String PASS = ""; // AP PASSWORD
+String API = "";   // Write API KEY
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 String field = "field1";
